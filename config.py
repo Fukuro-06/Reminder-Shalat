@@ -18,11 +18,11 @@ SHOLAT_NAMES = [
 # Array waktu sholat default dalam format [jam, menit] (24 jam)
 # Bisa disesuaikan dengan lokasi dan preferensi masing-masing
 DEFAULT_PRAYER_TIMES = [
-    [4, 30],   # Subuh
-    [12, 15],  # Dzuhur  
-    [15, 30],  # Ashar
-    [18, 45],  # Maghrib
-    [20, 0]    # Isya
+    [4, 34],   # Subuh
+    [11, 50],  # Dzuhur  
+    [15, 12],  # Ashar
+    [17, 43],  # Maghrib
+    [18, 57]    # Isya
 ]
 
 # Konfigurasi sistem reminder
